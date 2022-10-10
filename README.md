@@ -1,3 +1,5 @@
+### Adding to the text - Kendall ###
+
 # sjPlot - Data Visualization for Statistics in Social Science <img src="man/figures/logo.png" align="right" />
 
 [![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/sjPlot)](https://cran.r-project.org/package=sjPlot) &#160;&#160; [![Documentation](https://img.shields.io/badge/documentation-sjPlot-orange.svg?colorB=E91E63)](https://strengejacke.github.io/sjPlot/) &#160;&#160; [![downloads](https://cranlogs.r-pkg.org/badges/sjPlot)](https://cranlogs.r-pkg.org/)
